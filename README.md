@@ -1,6 +1,8 @@
 <h1 align="left">Hi 👋, I'm Heba</h1>
-<h3 align="ledt">A backend developer</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAS/programming.gif" >
+<h3 align="left">A full-stack developer</h3>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" >
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hebaabdelhamed&label=Profile%20views&color=0e75b6&style=flat" alt="hebaabdelhamed" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/HebaAbdElhamed](https://github.com/HebaAbdElhamed)
 
@@ -8,13 +10,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/heba-abd-elhamed-a13074167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heba-abd-elhamed-a13074167" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/hebaabdelhamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hebaabdelhamed" height="30" width="40" /></a>
-<a href="https://fb.com/heba.beboo.520" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="heba.beboo.520" height="30" width="40" /></a>
-<a href="https://instagram.com/__he_baa__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__he_baa__" height="30" width="40" /></a>
- <a href="https://github.com/HebaAbdElhamed" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="HebaAbdElhamed" height="30" width="40" /></a>
-   <a href="mailto: hebaabdelhamede@gmail.com" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/gmail-icon-3.svg" alt="hebaabdelhamede@gmail.com" height="30" width="40" /></a>
- 
+    <a href="https://linkedin.com/in/heba-abd-elhamed-a13074167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heba-abd-elhamed-a13074167" height="30" width="40" /></a>
+    <a href="https://stackoverflow.com/users/hebaabdelhamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hebaabdelhamed" height="30" width="40" /></a>
+    <a href="https://fb.com/heba.beboo.520" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="heba.beboo.520" height="30" width="40" /></a>
+    <a href="https://instagram.com/__he_baa__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__he_baa__" height="30" width="40" /></a>
+     <a href="https://github.com/HebaAbdElhamed" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="HebaAbdElhamed" height="30" width="40" /></a>
+       <a href="mailto: hebaabdelhamede@gmail.com" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/gmail-icon-3.svg" alt="hebaabdelhamede@gmail.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
