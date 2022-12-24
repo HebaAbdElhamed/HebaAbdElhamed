@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Heba</h1>
-<h3 align="center">A backend developer</h3>
+<h3 align="ledt">A backend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAS/programming.gif" >
 
 - 👨‍💻 All of my projects are available at [https://github.com/HebaAbdElhamed](https://github.com/HebaAbdElhamed)
