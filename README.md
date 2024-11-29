@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/heba-abd-elhamed-a13074167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heba-abd-elhamed-a13074167" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/heba-elgohary-a13074167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heba-abd-elhamed-a13074167" height="30" width="40" /></a>
     <a href="https://stackoverflow.com/users/20854024/hebaabdelhamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hebaabdelhamed" height="30" width="40" /></a>
     <a href="https://web.facebook.com/heba.abdelhamed.e/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="heba.beboo.520" height="30" width="40" /></a>
     <a href="https://instagram.com/__he_baa__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__he_baa__" height="30" width="40" /></a>
