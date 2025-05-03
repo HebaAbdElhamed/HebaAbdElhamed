@@ -5,16 +5,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hebaabdelhamed&label=Profile%20views&color=0e75b6&style=flat" alt="hebaabdelhamed" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/HebaAbdElhamed](https://github.com/HebaAbdElhamed)
+- 👨‍💻 All of my Designs are available at [https://www.behance.net/hebaabdelhamed1](https://www.behance.net/hebaabdelhamed1)
 
 - 📫 How to reach me **hebaabdelhamede@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/heba-elgohary-a13074167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heba-abd-elhamed-a13074167" height="30" width="40" /></a>
-    <a href="https://www.behance.net/hebaabdelhamed1" target="blank"><img align="center" src="https://img.icons8.com/color/512/behance.png" alt="hebaabdelhamed1" height="40" width="40" /></a>
-    <a href="https://stackoverflow.com/users/20854024/hebaabdelhamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hebaabdelhamed" height="30" width="40" /></a>
-    <a href="https://web.facebook.com/heba.abdelhamed.e/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="heba.beboo.520" height="30" width="40" /></a>
-    <a href="https://instagram.com/__he_baa__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__he_baa__" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/heba-elgohary-a13074167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Heba Elgohary" height="30" width="40" /></a>
+    <a href="https://www.behance.net/hebaabdelhamed1" target="blank"><img align="center" src="https://img.icons8.com/color/512/behance.png" alt="Heba Elgohary" height="40" width="40" /></a>
+<!--     <a href="https://stackoverflow.com/users/20854024/hebaabdelhamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hebaabdelhamed" height="30" width="40" /></a> -->
+    <a href="https://web.facebook.com/heba.abdelhamed.e/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Heba Elgohary" height="30" width="40" /></a>
+    <a href="https://www.instagram.com/heba_elgohary__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heba_elgohary__" height="30" width="40" /></a>
      <a href="https://github.com/HebaAbdElhamed" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="HebaAbdElhamed" height="30" width="40" /></a>
        <a href="mailto: hebaabdelhamede@gmail.com" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/gmail-icon-3.svg" alt="hebaabdelhamede@gmail.com" height="30" width="40" /></a>
 </p>
