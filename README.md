@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Heba</h1>
 <h3 align="left">Full-Stack Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" >
+<img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hebaabdelhamed&label=Profile%20views&color=0e75b6&style=flat" alt="hebaabdelhamed" /> </p>
 
@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/heba-elgohary-a13074167" target="blank" style="display:inline"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Heba Elgohary" height="30" width="40" /></a>
-    <a style="display:inline" href="https://www.behance.net/hebaabdelhamed1" target="blank"><img align="center" src="https://img.icons8.com/color/512/behance.png" alt="Heba Elgohary" height="40" width="40" /></a>
+    <a href="https://linkedin.com/in/heba-elgohary-a13074167" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Heba Elgohary" height="30" width="40" /></a>
+    <a  href="https://www.behance.net/hebaabdelhamed1" target="blank"><img align="center" src="https://img.icons8.com/color/512/behance.png" alt="Heba Elgohary" height="40" width="40" /></a>
 <!--     <a href="https://stackoverflow.com/users/20854024/hebaabdelhamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hebaabdelhamed" height="30" width="40" /></a> -->
     <a href="https://web.facebook.com/heba.abdelhamed.e/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Heba Elgohary" height="30" width="40" /></a>
     <a href="https://www.instagram.com/heba_elgohary__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heba_elgohary__" height="30" width="40" /></a>
