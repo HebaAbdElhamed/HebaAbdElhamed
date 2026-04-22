@@ -51,6 +51,6 @@
 <a href="https://www.adobe.com/products/xd.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/512px-Adobe_XD_CC_icon.svg.png" width="40"/></a>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hebaabdelhamed&layout=compact" />
 </p>
