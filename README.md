@@ -1,8 +1,8 @@
 <h1 align="left">Hi 👋, I'm Heba</h1>
 <h3 align="left">Full-Stack Developer</h3>
 
-<p align="center">
-  <img width="280" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" />
+<p align="right">
+  <img width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" />
 </p>
 
 <p align="left">
