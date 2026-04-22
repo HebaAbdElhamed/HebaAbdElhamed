@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/heba-elgohary-a13074167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Heba Elgohary" height="30" width="40" /></a>
-    <a href="https://www.behance.net/hebaabdelhamed1" target="blank"><img align="center" src="https://img.icons8.com/color/512/behance.png" alt="Heba Elgohary" height="40" width="40" /></a>
+    <a href="https://linkedin.com/in/heba-elgohary-a13074167" target="blank" style="display:inline"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Heba Elgohary" height="30" width="40" /></a>
+    <a style="display:inline" href="https://www.behance.net/hebaabdelhamed1" target="blank"><img align="center" src="https://img.icons8.com/color/512/behance.png" alt="Heba Elgohary" height="40" width="40" /></a>
 <!--     <a href="https://stackoverflow.com/users/20854024/hebaabdelhamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hebaabdelhamed" height="30" width="40" /></a> -->
     <a href="https://web.facebook.com/heba.abdelhamed.e/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Heba Elgohary" height="30" width="40" /></a>
     <a href="https://www.instagram.com/heba_elgohary__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heba_elgohary__" height="30" width="40" /></a>
