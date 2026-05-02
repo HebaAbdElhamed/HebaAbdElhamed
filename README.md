@@ -1,1 +1,1 @@
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HebaAbdElhamed&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HebaAbdElhamed&show_icons=true&theme=radical)
