@@ -52,10 +52,7 @@
 
 ---
 
-## 📈 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hebaabdelhamed&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HebaAbdElhamed&layout=compact&theme=radical)
 ---
 
 ## 💡 Fun Fact
