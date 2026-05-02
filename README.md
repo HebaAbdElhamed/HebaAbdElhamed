@@ -107,10 +107,10 @@
 <a href="https://www.adobe.com/products/xd.html">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/250px-Adobe_XD_CC_icon.svg.png" width="40"/>
 </a>
-
 </p>
 
-## 📊 GitHub Stats
+
+## GitHub Stats
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HebaAbdElhamed"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HebaAbdElhamed"/>
