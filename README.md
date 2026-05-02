@@ -28,7 +28,7 @@
   <img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
 <a href="mailto:hebaabdelhamede@gmail.com">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRktdtAeHPeokHz3OF5CU2o45pR_ojFli1CbQ&s" height="40"/>
+  <img src="https://images.icon-icons.com/2631/PNG/512/gmail_new_logo_icon_159149.png" height="40"/>
 </a>
 </p>
 
