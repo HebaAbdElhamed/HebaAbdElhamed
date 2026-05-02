@@ -19,7 +19,7 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeBDbYoNFQCVydlXXS2hLT8ZdZC8oaIRFuLg&s" height="40"/>
 </a>
 <a href="https://web.facebook.com/heba.abdelhamed.e/">
-  <img src="https://skillicons.dev/icons?i=facebook" height="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY3rnZxhhhfG5Z8G5R1-kCVhmgInxxn1sXGA&s" height="40"/>
 </a>
 <a href="https://www.instagram.com/heba_elgohary__">
   <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
@@ -28,7 +28,7 @@
   <img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
 <a href="mailto:hebaabdelhamede@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  <img src="https://thumbs.dreamstime.com/b/gmail-logo-gmail-icon-google-email-service-logotype-icon-vector-gmail-logo-gmail-icon-google-email-service-logotype-icon-vector-302789383.jpg" height="40"/>
 </a>
 </p>
 
