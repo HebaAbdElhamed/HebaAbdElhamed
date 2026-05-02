@@ -44,7 +44,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
 </a>
 
-<a href="https://react.dev/"><img src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-512.png" width="40"/></a>
+<a href="https://react.dev/">
+  <img src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-512.png" width="40"/>
+</a>
 
 <a href="https://dart.dev"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"/></a>
 
