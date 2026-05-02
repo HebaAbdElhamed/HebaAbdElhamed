@@ -12,9 +12,9 @@
 ---
 
 ## 👩‍💻 About Me
-- 💻 Full-Stack Developer passionate about modern web apps  
+- 💻 Full-Stack Developer passionate about building modern web apps  
 - 🎨 UI/UX lover & clean design enthusiast  
-- 🚀 Always learning new technologies  
+- 🚀 Always learning and improving my skills  
 - 📫 Email: **hebaabdelhamede@gmail.com**
 
 ---
@@ -36,7 +36,16 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
+<p align="center">
+  <a href="https://github.com/HebaAbdElhamed?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hebaabdelhamed&repo=YOUR_REPO_NAME&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
+## 📌 GitHub Activity (Light Version - Stable)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hebaabdelhamed&show_icons=true&theme=tokyonight" />
 </p>
@@ -50,7 +59,5 @@
 
 ---
 
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hebaabdelhamed&theme=tokyonight" />
-</p>
+## 💡 Fun Fact
+✨ I love building clean UI and turning ideas into real products.
