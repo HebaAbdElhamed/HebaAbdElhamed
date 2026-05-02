@@ -1,1 +1,1 @@
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HebaAbdElhamed&layout=compact)
+![Top Language](https://img.shields.io/github/languages/top/HebaAbdElhamed?style=for-the-badge)
