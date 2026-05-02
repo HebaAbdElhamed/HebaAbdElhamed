@@ -9,26 +9,25 @@
 
 - 📫 How to reach me **hebaabdelhamede@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-
 <p align="left">
 <a href="https://linkedin.com/in/heba-elgohary-a13074167">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
 </a>
-<a href="https://www.behance.net/hebaabdelhamed1">
-  <img src="https://skillicons.dev/icons?i=behance" height="40"/>
-</a>
+
 <a href="https://web.facebook.com/heba.abdelhamed.e/">
-  <img src="https://skillicons.dev/icons?i=facebook" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40"/>
 </a>
+
 <a href="https://www.instagram.com/heba_elgohary__">
-  <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="40"/>
 </a>
+
 <a href="https://github.com/HebaAbdElhamed">
-  <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
 </a>
+
 <a href="mailto:hebaabdelhamede@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40"/>
 </a>
 </p>
 
