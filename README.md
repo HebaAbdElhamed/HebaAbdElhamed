@@ -40,8 +40,6 @@
 
 ## 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HebaAbdElhamed"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HebaAbdElhamed"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HebaAbdElhamed"/>
 </p>
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
