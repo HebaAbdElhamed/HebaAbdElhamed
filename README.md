@@ -1,1 +1,1 @@
-![Top Language](https://img.shields.io/github/languages/top/HebaAbdElhamed?style=for-the-badge)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HebaAbdElhamed)
