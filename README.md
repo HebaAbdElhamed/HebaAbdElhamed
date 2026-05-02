@@ -48,35 +48,65 @@
   <img src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-512.png" width="40"/>
 </a>
 
-<a href="https://dart.dev"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"/></a>
+<a href="https://dart.dev">
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"/>
+</a>
 
-<a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/></a>
+<a href="https://www.figma.com/">
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
+</a>
 
-<a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/></a>
+<a href="https://flutter.dev">
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/>
+</a>
 
-<a href="https://hadoop.apache.org/"><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" width="40"/></a>
+<a href="https://hadoop.apache.org/">
+  <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" width="40"/>
+</a>
 
-<a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></a>
+<a href="https://www.w3.org/html/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+</a>
 
-<a href="https://www.adobe.com/products/illustrator.html"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40"/></a>
+<a href="https://www.adobe.com/products/illustrator.html">
+  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40"/>
+</a>
 
-<a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a>
+<a href="https://www.java.com">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+</a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+</a>
 
-<a href="https://laravel.com/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhmb49W2QFfrjwmI86i6qobwlJS97keYOVYw&s" width="40"/></a>
+<a href="https://laravel.com/">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhmb49W2QFfrjwmI86i6qobwlJS97keYOVYw&s" width="40"/>
+</a>
 
-<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
+<a href="https://www.mysql.com/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+</a>
 
-<a href="https://www.photoshop.com/en"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/960px-Adobe_Photoshop_CC_icon.svg.png" width="40"/></a>
+<a href="https://www.photoshop.com/en">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/960px-Adobe_Photoshop_CC_icon.svg.png" width="40"/>
+</a>
 
-<a href="https://www.php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/></a>
+<a href="https://www.php.net">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
+</a>
 
-<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
+<a href="https://www.python.org">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+</a>
 
-<a href="https://www.tensorflow.org"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/></a>
+<a href="https://www.tensorflow.org">
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
+</a>
 
-<a href="https://www.adobe.com/products/xd.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/250px-Adobe_XD_CC_icon.svg.png" width="40"/></a>
+<a href="https://www.adobe.com/products/xd.html">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/250px-Adobe_XD_CC_icon.svg.png" width="40"/>
+</a>
 
 </p>
 
