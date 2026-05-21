@@ -113,5 +113,5 @@
 <h3 align="left">GitHub Stats</h3>
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HebaAbdElhamed"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HebaAbdElhamede"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HebaAbdElhamed"/>
 </p>
