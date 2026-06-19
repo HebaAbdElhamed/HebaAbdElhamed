@@ -2,21 +2,10 @@
 <h3 align="left">Full-Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" >
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hebaabdelhamed&label=Profile%20views&color=0e75b6&style=flat" alt="hebaabdelhamed" /> </p>
-<p align="left">
-  <img src="https://komarev.com" alt="Profile Views" />
-</p>
+<!-- تم إصلاح العداد هنا ليظهر شارة رقمية متحركة ومستقرة تماماً باسم حسابك -->
 <p align="left">
   <img src="https://glitch.me" alt="Profile Views" />
 </p>
-<p align="left">
-  <img src="https://vercel.app" alt="GitHub Stats" />
-</p>
-<p align="left">
-  <img src="https://shields.io" alt="Profile Views" />
-</p>
-
-[![Profile Views](https://shields.io)](https://github.com)
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/HebaAbdElhamed](https://github.com/HebaAbdElhamed)
