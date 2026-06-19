@@ -2,10 +2,11 @@
 <h3 align="left">Full-Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" >
 
-<p align="left">
-  <img src="https://vercel.app" alt="Heba's Profile Views and Stats" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hebaabdelhamed&label=Profile%20views&color=0e75b6&style=flat" alt="hebaabdelhamed" /> </p>
 
+<p align="left">
+  <img src="https://secochic.com" alt="Profile Views" />
+</p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/HebaAbdElhamed](https://github.com/HebaAbdElhamed)
 - 👨‍💻 All of my Designs are available at [https://www.behance.net/hebaabdelhamed1](https://www.behance.net/hebaabdelhamed1)
