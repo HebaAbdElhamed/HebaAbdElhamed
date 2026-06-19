@@ -9,6 +9,12 @@
 <p align="left">
   <img src="https://glitch.me" alt="Profile Views" />
 </p>
+<p align="left">
+  <img src="https://vercel.app" alt="GitHub Stats" />
+</p>
+<p align="left">
+  <img src="https://shields.io" alt="Profile Views" />
+</p>
 
 
 
