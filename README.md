@@ -3,9 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" >
 
 <p align="left">
-  <a href="https://github.com">
-    <img src="https://shields.io" alt="Profile Status" />
-  </a>
+  <img src="https://shields.io" alt="Profile Status" />
 </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/HebaAbdElhamed](https://github.com/HebaAbdElhamed)
